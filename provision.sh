@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-cd /workspace/
+cd /opt/workspace-internal/
 # Cause the script to exit on failure.
 set -eo pipefail
 
